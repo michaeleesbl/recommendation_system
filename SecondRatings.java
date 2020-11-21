@@ -53,6 +53,9 @@ public class SecondRatings {
                 ans.add(r);
             }
         }
+        for (Rating r : ans) {
+            System.out.println(r.getValue());
+        }
         return ans;
     }
     

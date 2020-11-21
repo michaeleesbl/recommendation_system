@@ -1,4 +1,4 @@
-/**
+ /**
  * Write a description of SecondRatings here.
  * 
  * @author (your name) 
@@ -76,6 +76,9 @@ public class ThirdRatings {
                 ans.add(r);
             }
         }
+        //for (Rating r : ans) {
+        //    System.out.println(r.getValue());
+        //}
         return ans;
     }
 }

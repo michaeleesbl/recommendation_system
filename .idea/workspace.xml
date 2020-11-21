@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c2380ed-9baf-4d24-a57f-b766990628ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/FourthRatings.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/FourthRatings.ctxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FourthRatings.java" beforeDir="false" afterPath="$PROJECT_DIR$/FourthRatings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieDatabase.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/MovieDatabase.ctxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieRunnerAverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieRunnerAverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieRunnerAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieRunnerAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieRunnerWIthFilters.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieRunnerWIthFilters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieRunnerWIthFilters.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieRunnerWIthFilters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RaterDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/RaterDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondRatings.class" beforeDir="false" afterPath="$PROJECT_DIR$/SecondRatings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondRatings.java" beforeDir="false" afterPath="$PROJECT_DIR$/SecondRatings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThirdRatings.class" beforeDir="false" afterPath="$PROJECT_DIR$/ThirdRatings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThirdRatings.java" beforeDir="false" afterPath="$PROJECT_DIR$/ThirdRatings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/package.bluej" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kaIBL4A4fPknZY8S4NWKaVEBU3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="aws" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c2380ed-9baf-4d24-a57f-b766990628ed" name="Default Changelist" comment="" />
+      <created>1605932139780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605932139780</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1374" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605932224003">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1374" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1605932224003" />
+    <state x="1654" y="862" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605932184816">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1654" y="862" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3840.2120@0.0.3840.2120" timestamp="1605932184816" />
+    <state x="1421" y="705" key="SettingsEditor" timestamp="1605932174157">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1421" y="705" key="SettingsEditor/0.0.3840.2120@0.0.3840.2120" timestamp="1605932174157" />
+  </component>
+</project>
